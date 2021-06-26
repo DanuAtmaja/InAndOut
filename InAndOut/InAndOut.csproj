@@ -20,10 +20,12 @@
     <None Remove="Microsoft.EntityFrameworkCore" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Views\Item\" />
+    <None Remove="Views\Expense\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Appointment\" />
     <Folder Include="Data\" />
     <Folder Include="Views\Item\" />
+    <Folder Include="Views\Expense\" />
   </ItemGroup>
 </Project>
