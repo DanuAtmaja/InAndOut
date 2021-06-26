@@ -19,9 +19,11 @@
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.EntityFrameworkCore" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Views\Item\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Appointment\" />
     <Folder Include="Data\" />
+    <Folder Include="Views\Item\" />
   </ItemGroup>
 </Project>
