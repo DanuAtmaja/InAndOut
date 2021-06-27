@@ -1,0 +1,39 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{9917F2C1-6643-4619-8308-829AAECB3461}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="InAndOut/Views/Expense/Delete.cshtml" Line="34" Column="31" />
+      <File FileName="InAndOut/Controllers/ExpenseController.cs" />
+      <File FileName="InAndOut/Views/Expense/Create.cshtml" />
+      <File FileName="InAndOut/Views/Expense/Index.cshtml" />
+      <File FileName="InAndOut/Program.cs" Line="12" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InAndOut" expanded="True">
+            <Node name="InAndOut" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Appointment" expanded="True" />
+                <Node name="Expense" expanded="True" />
+                <Node name="Item" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InAndOut PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
