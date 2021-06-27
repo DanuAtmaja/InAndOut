@@ -23,6 +23,7 @@
     <None Remove="Views\Expense\" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Pages" />
     <Folder Include="Views\Appointment\" />
     <Folder Include="Data\" />
     <Folder Include="Views\Item\" />
